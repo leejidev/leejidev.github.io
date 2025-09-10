@@ -23,5 +23,6 @@ pnpm-debug.log*
 # jetbrains setting folder
 .idea/
 
-# sample content
-src/content/blog/samples/
+# Astro template samples (keep locally, don’t version)
+src/content/blog/markdown-style-guide.md
+src/content/blog/using-mdx.mdx
